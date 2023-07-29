@@ -45,8 +45,4 @@
     </div>
 </center>
 
-<center>
-    <h2 class="text-4xl font-extrabold dark:text-white">Portofolio</h2>
-    </center>
-
 </template>
